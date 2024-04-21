@@ -15,7 +15,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "kidney-disease-classification"
 AUTHOR_USER_NAME = "PySciJ"
-SRC_REPO = "cnnClassifier"
+SRC_REPO = "cnnClassifier" # Defined as local package dir
 AUTHOR_EMAIL = "ho.jiajun@outlook.com"
 
 
